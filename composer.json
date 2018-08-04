@@ -1,0 +1,15 @@
+{
+    "name": "zingus/kurt",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Zingus J. Rinkle",
+            "email": "zingus@gmail.com"
+        }
+    ],
+    "require": {
+        "yoya/io_midi": "^1.0",
+        "tmont/midiparser": "^1.1"
+    }
+}
