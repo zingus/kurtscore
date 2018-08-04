@@ -1,9 +1,1 @@
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
-"# kurtscore" 
+# Kurtscore
